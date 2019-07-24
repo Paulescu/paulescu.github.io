@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
+# image: https://barstaff.rs/new/wp-content/uploads/2019/04/cropped-3.jpg
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Pau Labarta Bajo.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a freelance mathematician with a passion for machine learning and data science problems. I love to read about complex stuff, diggest it and share it in the most comprehensible way possible.
 
-What else do you need?
+The field of machine learning is evolving very fast, in particular deep learning. Both from a theoretical and an implementation perspective. New models and network architectures appear every month, as well as new software that helps us implement, deploy and use these models. There are so many new things so often that it can be overwhelming for anyone willing to learn and to work in this field.
 
-### my history
+With this blog I want to share interesting topics in machine learning and data science with a very analytical approach, **understanding both the big picture and the finer details.**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+PS: A more Pythonic way to describe my day would be the following:
+```
+while alive:
+
+    start_thinking()
+
+    # enjoy the day with
+    # ... my beautiful wife
+    # ... my family and my friends
+    # ... my dogs
+    # ... interesting work
+    # ...
+     
+    write()
+```
+
