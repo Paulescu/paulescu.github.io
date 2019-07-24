@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-# subtitle: Why you'd want to go on a date with me
-# image: https://barstaff.rs/new/wp-content/uploads/2019/04/cropped-3.jpg
+# subtitle: 
+# image: 
 ---
 
 My name is Pau Labarta Bajo.
